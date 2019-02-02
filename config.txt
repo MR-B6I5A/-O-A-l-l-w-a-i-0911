@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=!
-game=Break | !play
+owner=195088897234042880
+prefix=a
+game=Type | aplay
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTM5NDIwNDA1MjUzNzk5OTM2.Dzepeg.J2ZR03UV9BWw1h04k5o-XKwlzog
